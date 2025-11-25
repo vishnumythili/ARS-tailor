@@ -1,0 +1,7 @@
+{
+  "name": "Darji Master Pro",
+  "description": "A comprehensive management suite for Indian male tailors. Manage measurements, orders, material samples, and payments with AI-assisted style recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
